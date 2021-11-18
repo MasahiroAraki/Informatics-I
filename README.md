@@ -8,7 +8,7 @@
 - 進行予定 毎週金曜日 18:00-20:10
   | 開催日 | 内容|
   | --- | --- |
-  | 11/19(金)| [情報社会の問題解決(1)(2)](https://github.com/MasahiroAraki/Informatics-I/blob/master/slide/chap01-1.pdf) |
+  | 11/19(金)| [情報社会の問題解決(1)(2)](https://github.com/MasahiroAraki/Informatics-I/blob/main/slide/chap01-1.pdf) |
   | 11/26(金)| 情報社会の問題解決(3)(4) |
   | 12/3(金)| コミュニケーションと情報デザイン(1)(2) |
   | 12/10(金)| コミュニケーションと情報デザイン(3)(4) |
