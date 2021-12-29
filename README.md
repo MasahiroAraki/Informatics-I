@@ -6,6 +6,7 @@
   - 文部科学省 [高等学校情報科「情報Ⅰ」教員研修用教材（本編）](https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1416756.htm)
 
 - 進行予定 毎週金曜日 18:00-20:10
+  
   | 開催日 | 内容 | 備考 |
   | --- | --- | --- |
   | 11/19(金)| [情報社会の問題解決(1)(2)](https://github.com/MasahiroAraki/Informatics-I/blob/main/slide/chap01-1.pdf) |[情報処理学会 試作問題 第5問 問6 (p.17)](https://www.ipsj.or.jp/education/9faeag0000012a50-att/sanko2.pdf#page=22)|
