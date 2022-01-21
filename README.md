@@ -15,6 +15,6 @@
   | 12/10(金)|[コミュニケーションと情報デザイン(3)(4)](https://github.com/MasahiroAraki/Informatics-I/blob/main/slide/chap02-2.pdf)|[サンプル問題 第1問 問2 (p.3)](https://www.dnc.ac.jp/albums/abm.php?f=abm00040365.pdf&n=%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E5%95%8F%E9%A1%8C%EF%BC%88%E6%83%85%E5%A0%B1%EF%BC%89_%E4%BF%AE%E6%AD%A3%E7%89%88.pdf#page=4)|
   | 12/17(金)| [コンピュータとプログラミング(1)(2)](https://github.com/MasahiroAraki/Informatics-I/blob/main/slide/chap03-1.pdf) |[Jupyter Notebook](https://github.com/MasahiroAraki/Informatics-I/blob/main/Python/info_I_1.ipynb)|
   | 1/14(金)| [コンピュータとプログラミング(3)(4)](https://github.com/MasahiroAraki/Informatics-I/blob/main/slide/chap03-2.pdf)  |[Jupyter Notebook](https://github.com/MasahiroAraki/Informatics-I/blob/main/Python/info_I_2.ipynb)|
-  | 1/21(金)| 情報通信ネットワークとデータの活用(1)(2) ||
+  | 1/21(金)| [情報通信ネットワークとデータの活用(1)(2)](https://github.com/MasahiroAraki/Informatics-I/blob/main/slide/chap04-1.pdf)  |[Jupyter Notebook](https://github.com/MasahiroAraki/Informatics-I/blob/main/Python/info_I_4.ipynb), [試作問題 第7問 (p.19)](https://www.ipsj.or.jp/education/9faeag0000012a50-att/sanko2.pdf#page=24)|
   | 1/28(金)| 情報通信ネットワークとデータの活用(3)(4) ||
 
