@@ -1,6 +1,6 @@
 # 2021年度 公開講座「情報の基本」
 
-- 受講申し込みは[こちら](https://www.kit.ac.jp/events/events211119/)
+- この講座は終了しました
 
 - 使用する教材
   - 文部科学省 [高等学校情報科「情報Ⅰ」教員研修用教材（本編）](https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1416756.htm)
